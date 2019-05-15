@@ -32,7 +32,6 @@
 
 
 
-  {%- if site.data.navigation.header -%}
   <nav class="navigation">
     <ul>
       {%- for _item in site.data.navigation.header -%}
@@ -49,7 +48,6 @@
       {%- endfor -%}
       {%- if site.search.provider -%}
         <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
-      {%- endif -%}
     </ul>
   </nav>
   {%- endif -%}

@@ -15,3 +15,5 @@ SimpleJekyllSearch({
   json: '/search.json'
 })
 </script>
+
+searchResultTemplate: '<div><a href="{url}"><h1>{title}</h1></a><span>{date}</span></div>',

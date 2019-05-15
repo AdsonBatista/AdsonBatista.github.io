@@ -9,7 +9,7 @@ title: Search
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/path/to/search-script.js" type="text/javascript"></script>
+<script src="/path/to/search.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
@@ -37,4 +37,4 @@ SimpleJekyllSearch({
     <div class="search-result js-search-result"></div>
   </div>
 </div>
-<script>{%- include search.js -%}</script>
+<script src="/path/to/search.js" type="text/javascript"></script>

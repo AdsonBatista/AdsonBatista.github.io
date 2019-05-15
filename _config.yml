@@ -1,47 +1,21 @@
-# Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://adsonbatista.github.io # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
+# Permalinks
+permalink:           pretty
 
-google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
-postshare_enabled : false
+# Setup
+exclude:             [CNAME, Gemfile, README.md, LICENSE.md, scratch.md]
+unpublished:         true
+show_drafts:         false
+title:               'Lanyon Wishlist'
+tagline:             'Lanyon + requests from users'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>, extended by its fans and users.'
+url:                 'http://lanyon.getpoole.com'
+baseurl:             ''
 
-# Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
-
-source      : ./
-destination : ./_site
-
-# Sass configuration
-sass:
-  sass_dir  : assets/scss
-  style     : compressed # expanded
-
-# Author settings
+# About/contact
 author:
-  name     : "John Doe"
+  name:              'Joe Friedrichsen'
+  url:               'https://github.com/wireddown/wireddown.github.io/tree/upstream-wishlist'
+  email:             'wireddown@users.noreply.github.com'
 
-plugins:
-  - jekyll-sitemap
-  - bourbon
-  - jekyll-paginate
-
-# navbar pages
-navbar:
-  - slug : life
-    title: Life
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
-
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]
+# Custom vars
+version:             1.1.0

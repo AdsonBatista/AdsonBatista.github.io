@@ -1,10 +1,8 @@
-source "https://rubygems.org"
-gemspec
-group :jekyll_plugins do
-    gem "jekyll-sitemap"
-    gem "bourbon"
-    gem "jekyll-paginate"
-end
-gem 'html-proofer'
-gem 'tzinfo'
-gem 'tzinfo-data'
+source 'https://rubygems.org'
+
+require 'json'
+require 'open-uri'
+versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+
+gem 'github-pages', versions['github-pages']
+

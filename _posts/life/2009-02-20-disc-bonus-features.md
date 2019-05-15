@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Please Stop With the Crappy Bonus Features"
+category: life
 ---
 
 h2. {{ page.title }}

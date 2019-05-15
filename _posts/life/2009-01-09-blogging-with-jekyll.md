@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Blogging with Jekyll"
+category: life
 ---
 
 h2. {{ page.title }}

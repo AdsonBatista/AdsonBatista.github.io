@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Debussy & Bartok"
+category: life
 ---
 
 h2. {{ page.title }}

@@ -32,6 +32,14 @@ title: Busca
     }
   </style>
   <body>
+    <form id="search-form" action="">
+      <label class="label" for="search">Search term:</label>
+      <br/>
+      <input class="input" id="search" type="text" name="search" placeholder="e.g. History of" autocomplete="off">
+      <ul class="list  list--results" id="list">
+
+      </ul>
+    </form>
     <script type="text/javascript" src="./src/fetch.js"></script>
     <script type="text/javascript" src="./src/search.js"></script>
     <script type="text/javascript">

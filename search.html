@@ -1,95 +1,59 @@
-
-<html lang="en">
+<!DOCTYPE html>
+<html>
   <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
-  <title></title>
-  <meta name="description" content="" />
-  <link rel="stylesheet" href="/demo/demo.css">
-  <style>
-      .demo-wrapper {
-        max-width: 80%;
-        margin: 5% auto;
-      }
-    </style>
+    <meta charset="utf-8">
+    <title>Jekyll Search JS Demo</title>
   </head>
-  <body>
-  <div class="demo-container">
-  <a class="btn" href="/instant-jekyll-search/">Back to article</a>
-  <div class="demo-wrapper">
-  
-  <div id="search-container">
-  <input type="text" id="search-input" placeholder="How, Jekyll, Liquid...">
-  <ul id="results-container"></ul>
-  </div>
-  </div>
-  <style>
-  
-  #search-container {
-      max-width: 100%;
-  }
-  
-  input[type=text] {
-  
-      outline: none;
-      padding: 15px 25px;
-      margin: 5px 1px 3px 0px;
-      border: none;
+  <style media="screen">
+    body {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      font-family: -apple-system, BlinkMacSystemFont,
+        "Segoe UI", "Roboto", "Oxygen",
+        "Ubuntu", "Cantarell", "Fira Sans",
+        "Droid Sans", "Helvetica Neue", sans-serif;
+    }
+    form {
+      text-align: left;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-width: 300px;
+      width: 20vw;
+    }
+    input {
+      font-family: inherit;
+      font-size: inherit;
       width: 100%;
-      border-radius: 1px;
-      box-shadow: 0 1px 0px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
-  
-  }
-  
-  input[type=text]:hover {
-      outline: none;
-      border: none;
-      margin: 5px 1px 3px 0px;
-      padding: 15px 25px;
-      -webkit-transition: all 0.30s ease-in-out;
-      -moz-transition: all 0.30s ease-in-out;
-      -ms-transition: all 0.30s ease-in-out;
-      -o-transition: all 0.30s ease-in-out;
-       box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
-  }
-  
-  input[type=text]:focus {
-      box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
-      margin: 5px 1px 3px 0px;
-      padding: 15px 25px;
-      border: none;
-      outline: none;
-          -webkit-transition: all 0.30s ease-in-out;
-      -moz-transition: all 0.30s ease-in-out;
-      -ms-transition: all 0.30s ease-in-out;
-      -o-transition: all 0.30s ease-in-out;
-  }
-  
-  @media screen and (max-width: 600px) {
-      input[type=text]{
-              width: 100%;
-              box-sizing: border-box;
-      }
-      }
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
   </style>
-  <script type="text/javascript" src="./src/fetch.js"></script>
-  <script type="text/javascript" src="./src/search.js"></script>
-  
-  <script type="text/javascript">
+  <body>
+    <h1>Search</h1>
+    <form id="search-form" action="">
+      <label class="label" for="search">Search term:</label>
+      <br/>
+      <input class="input" id="search" type="text" name="search" placeholder="e.g. History of" autocomplete="off">
+      <ul class="list  list--results" id="list">
 
-    // New search using example options
-    const search = new jekyllSearch(
-      'https://adsonbatista.github.io/assets/search.json',
-      '#search',
-      '#list',
-      'https://adsonbatista.github.io'
-    );
-  
-    // Initialise
-    search.init();
-  
-  </script>
-  
-  </div>
+      </ul>
+    </form>
+    <script type="text/javascript" src="./src/fetch.js"></script>
+    <script type="text/javascript" src="./src/search.js"></script>
+    <script type="text/javascript">
+      const search = new jekyllSearch(
+        'https://adsonbatista.github.io/assets/search.json',
+        '#search',
+        '#list',
+        'https://adsonbatista.github.io'
+      );
+      search.init();
+    </script>
+    <noscript>Please enable JavaScript to use the search form.</noscript>
   </body>
-  </html>
+</html>

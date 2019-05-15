@@ -37,4 +37,4 @@ SimpleJekyllSearch({
     <div class="search-result js-search-result"></div>
   </div>
 </div>
-<script>{%- include search-providers/default/search.js -%}</script>
+<script>{%- include search.js -%}</script>

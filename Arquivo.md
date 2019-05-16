@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arquivo
-permalink: /categories/
+permalink: /tags/
 ---
 # Lista de Posts!
 <!-- I follow the file from cloudoftags file of my github(https://github.com/hyunyoung2/hyunyoung2.github.io/blob/master/cloudoftags.html)-->

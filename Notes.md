@@ -7,7 +7,7 @@ title: notes{study}
   <h2 class="orange">notes{study}</h2>
   <ul class="posts">
     {% for post in site.categories.Estudos %}
- {% for tag in tags %} <!-- style="padding-top: 70px;" is used to deal with nav-custom bar -->
+ {% for tag in site.categories.Estudos %} <!-- style="padding-top: 70px;" is used to deal with nav-custom bar -->
       <h2 id="{{ tag[0] | slugify }}"> {{ tag[0] }}  <i><sub>[{{ tag | last | size }}]</sub></i></h2> <!-- I added new class -->
       <ul> <!-- post-subtitle -->
         {% for post in tag[1] %}

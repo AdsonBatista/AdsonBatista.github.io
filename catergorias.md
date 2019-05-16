@@ -7,7 +7,7 @@ permalink: /categories/
 <!-- I follow the file from cloudoftags file of my github(https://github.com/hyunyoung2/hyunyoung2.github.io/blob/master/cloudoftags.html)-->
 <!-- this code from https://github.com/codinfox/codinfox-lanyon/blob/dev/blog/categories.html-->
   <div class="page"> 
-    {% assign tags = site.categories | sort %}
+    {% assign tags = site.tags | sort %}
     <div class="items">
     {% for tag in tags %}
     <a href="#{{ tag[0] | slugify }}"> <!-- style="color: #1C1C1C;" is font color of cloud index -->

@@ -9,3 +9,7 @@ title: Tags
     {% include tag_link_formatter.html tag=tag tag_separator='<br />' %}
   {% endfor %}
 </div>
+
+{% if site.tags != "" %}
+  {% include tag_collector.html %}
+{% endif %}

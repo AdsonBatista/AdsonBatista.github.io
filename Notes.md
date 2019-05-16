@@ -22,7 +22,7 @@ title: notes{study}
  {% endfor %}
 </div>
 
-  <div class="page"> 
+ <div class="page"> 
     {% assign tags = site.tags | where: "categories", "Estudos" | sort %}
     <div class="items">
     {% for tag in tags %}
@@ -55,4 +55,4 @@ title: notes{study}
         </a> 
         <hr/>
     {% endfor %}
-      </div>
+  </div>

@@ -7,7 +7,7 @@ title: notes{study}
   <h2 class="orange">notes{study}</h2>
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
-{% assign zz = tag[1] | where: "category", "Photoshop" | sort %}
+{% assign zz = tag[1] | where: "category", "Estudos" | sort %}
 {% if zz != empty %}
 
 <li><span class="tag">{{ tag[0] }}</span>

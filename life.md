@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-permanentlink: \life.html
 ---
 
 <div id="home">

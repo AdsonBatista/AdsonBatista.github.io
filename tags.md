@@ -1,17 +1,21 @@
 ---
-layout: page
+layout: arquive
 title: Tags
+permanentelink: /tags/
 ---
 
 <div class="page">
-  {% assign sorted_tags = site.data.tags | sort:"name" %}
-  {% for tag in sorted_tags %}
-    {% include tag_link_formatter.html tag=tag tag_separator='<br />' %}
-  {% endfor %}
+<div class="layout--archive js-all">
+  {%- include tags.html -%}
+  <div class="js-result layout--archive__result d-none">
+    {%- include article-list.html articles=site.posts type='brief' show_info=true reverse=true group_by='year' -%}
+  </div>
+</div>
 
+<script>
+  {%- include scripts/archieve.js -%}
+</script>
 
-  {% if site.tags != "" %}
-  {% include tag_collector.html %}
-{% endif %}
+{{ content }}
 </div>
 

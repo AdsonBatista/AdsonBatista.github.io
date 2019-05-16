@@ -1,21 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
 # Permalinks
-permalink:           pretty
+permalink:        pretty
 
 # Setup
-exclude:             [CNAME, Gemfile, README.md, LICENSE.md, scratch.md]
-unpublished:         true
-show_drafts:         false
-title:               'Lanyon Wishlist'
-tagline:             'Lanyon + requests from users'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>, extended by its fans and users.'
-url:                 'http://adsonbatista.github.io'
-baseurl:             ''
+title:            Lanyon
+tagline:          'A Jekyll theme'
+description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://adsonbatista.github.io
 
-# About/contact
 author:
-  name:              'Joe Friedrichsen'
-  url:               'https://github.com/wireddown/wireddown.github.io/tree/upstream-wishlist'
-  email:             'wireddown@users.noreply.github.com'
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
 
 # Custom vars
-version:             1.1.0
+version:          2.0.0
+
+github:
+  repo:           https://github.com/poole/lanyon

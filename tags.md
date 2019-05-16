@@ -8,8 +8,10 @@ title: Tags
   {% for tag in sorted_tags %}
     {% include tag_link_formatter.html tag=tag tag_separator='<br />' %}
   {% endfor %}
-</div>
 
-{% if site.tags != "" %}
+
+  {% if site.tags != "" %}
   {% include tag_collector.html %}
 {% endif %}
+</div>
+

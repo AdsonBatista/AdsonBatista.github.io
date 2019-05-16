@@ -1,6 +1,7 @@
 ---
 title: Tipo string
 tag: [Python]
+categories: [Estudos]
 ---
 
 Em Python, um dado é considerado do tipo String sempre que estiver entre:

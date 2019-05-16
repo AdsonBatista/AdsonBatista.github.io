@@ -2,6 +2,7 @@
 title: Tipos Numéricos
 published: true
 tag: [Python]
+categories: [Estudos]
 ---
 ## Como trabalhar com valores grandes?
 

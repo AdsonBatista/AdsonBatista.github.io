@@ -1,6 +1,7 @@
 ---
 title: Tipo Booleano
 tag: [Python]
+categories: [Estudos]
 ---
 
 Existem duas constantes: ***True*** para Verdadeiro e ***False*** para falso. SEMPRE com as iniciais maiúsculas.

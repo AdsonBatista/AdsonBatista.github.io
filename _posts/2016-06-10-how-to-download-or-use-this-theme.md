@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "How to Download or Use This Theme"
-comments: true
-description: "How to Download or Use This Theme"
-keywords: "dummy content"
+tags: [github-pages, jekyll, liquid]
 ---
 
 ### Use this theme as you main site

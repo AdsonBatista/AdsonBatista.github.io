@@ -1,6 +1,6 @@
 ---
 title: Respostas Exercicios de Fixação
-tag: Python
+tag: [Python]
 ---
 
 1. Faça um programa que leia um número inteiro e o imprima.

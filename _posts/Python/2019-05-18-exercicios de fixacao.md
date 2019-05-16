@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Exercicios de Fixação
-tag: Python
+tag: [Python]
 published: false
 ---
 

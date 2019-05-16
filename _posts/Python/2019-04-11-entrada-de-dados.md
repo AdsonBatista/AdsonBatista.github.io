@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Recebendo dados do usuário!
-tag: Python
+tag: [Python]
 ---
 
 A entrada de dados é feita com o comando `input()`. Todo "dado" recebido por este comando é do tipo ***String***.

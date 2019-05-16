@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Escopo de variável
-tag: Python
+tag: [Python]
 ---
 
 Dois casos de escopo:

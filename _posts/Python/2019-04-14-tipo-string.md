@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Tipo string
-tag: Python
+tag: [Python]
 ---
 
 Em Python, um dado é considerado do tipo String sempre que estiver entre:

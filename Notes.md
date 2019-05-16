@@ -22,9 +22,8 @@ title: notes{study}
  {% endfor %}
 </div>
 
- <div class="page"> 
-    {% assign tags = site.tags | where: "categories", "Estudos" | sort %}
-    <div class="items">
+{% assign tags = site.tags | where: "categories", "Estudos" | sort %}
+<div class="items">
     {% for tag in tags %}
     <a href="#{{ tag[0] | slugify }}"> <!-- style="color: #1C1C1C;" is font color of cloud index -->
     <div class="item">
@@ -34,7 +33,7 @@ title: notes{study}
       </div>
     </a>
     {% endfor %}
-    </div>
+ 
  <!--  </div>-->
   <hr/> <!-- margin-top and margin-bottom in main.css -->
   <!-- <div class="post-preview">--> <!--post-preview -->

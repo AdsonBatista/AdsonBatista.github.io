@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Performance Matters
-category: life
+tags: [github-pages, life]
 ---
 
 

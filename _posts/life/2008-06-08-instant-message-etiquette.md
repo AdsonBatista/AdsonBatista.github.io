@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "IM Etiquette"
+tags: [github-pages, life]
 ---
 
 h2. {{ page.title }}

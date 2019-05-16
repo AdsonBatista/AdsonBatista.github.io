@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forum Help
-category: life
+tags: [github-pages, life]
 ---
 
 h2. {{ page.title }}

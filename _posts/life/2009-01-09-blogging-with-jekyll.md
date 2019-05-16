@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blogging with Jekyll"
-category: life
+tags: [github-pages, life]
 ---
 
 h2. {{ page.title }}

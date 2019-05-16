@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Please Stop With the Crappy Bonus Features"
-category: life
+tags: [github-pages, life]
 ---
 
 h2. {{ page.title }}

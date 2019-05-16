@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jobless Apple: Take 2"
+tags: [github-pages, life]
 ---
 
 h2. {{ page.title }}

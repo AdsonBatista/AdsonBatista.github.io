@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Less is More"
+tags: [github-pages, life]
 ---
 
 h2. {{ page.title }}

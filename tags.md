@@ -12,9 +12,6 @@ permanentelink: /tags/
   </div>
 </div>
 
-<script>
-  {%- include scripts/archieve.js -%}
-</script>
 
 {{ content }}
 </div>

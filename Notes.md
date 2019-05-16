@@ -7,7 +7,7 @@ title: notes{study}
   <h2 class="orange">notes{study}</h2>
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
-{% assign zz = tag[1] | where: "category", "Estudos" | sort %}
+{% assign zz = tag[1] | where: "categories", "Estudos" | sort %}
 {% if zz != empty %}
 
 <li><span class="tag">{{ tag[0] }}</span>
@@ -23,7 +23,7 @@ title: notes{study}
 </div>
 
   <div class="page"> 
-    {% assign tags = site.tags | where: "category", "Estudos" | sort %}
+    {% assign tags = site.tags | where: "categories", "Estudos" | sort %}
     <div class="items">
     {% for tag in tags %}
     <a href="#{{ tag[0] | slugify }}"> <!-- style="color: #1C1C1C;" is font color of cloud index -->

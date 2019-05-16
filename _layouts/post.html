@@ -17,11 +17,11 @@ layout: default
       {{ page.date | date_to_string }}
       <span style="float:right;">
           {% if post %}
-          {% assign tags = post.tags %}
+          {% assign categories = post.tags %}
         {% else %}
-          {% assign tags = page.tags %}
+          {% assign categories = page.tags %}
         {% endif %}
-        {% for tag in tags %}
+        {% for category in categories %}
         <a href="{{site.baseurl}}/categories/#{{category | downcase | slugify}}">[{{category}}]</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}

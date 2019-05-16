@@ -1,6 +1,7 @@
 ---
 title: Recebendo dados do usuário!
-tag: [Python]
+tag: [Pythonmm]
+categories: [Estudos]
 ---
 
 A entrada de dados é feita com o comando `input()`. Todo "dado" recebido por este comando é do tipo ***String***.

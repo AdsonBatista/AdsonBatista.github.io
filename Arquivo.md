@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mapa de Posts
+title: Arquivo
 permalink: /categories/
 ---
 # Lista de Posts!

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Tipo string
 tag: [Python]
 ---

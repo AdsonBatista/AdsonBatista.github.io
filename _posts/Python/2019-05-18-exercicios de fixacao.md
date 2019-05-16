@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Exercicios de Fixação
 tag: [Python]
 published: false

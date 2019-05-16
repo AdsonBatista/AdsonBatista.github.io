@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Recebendo dados do usuário!
 tag: [Python]
 ---

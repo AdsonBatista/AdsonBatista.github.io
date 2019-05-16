@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Tipos Numéricos
 published: true
 tag: [Python]

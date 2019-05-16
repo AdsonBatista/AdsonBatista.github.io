@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Escopo de variável
 tag: [Python]
 ---

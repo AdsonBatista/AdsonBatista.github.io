@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Teste bla bla bla
-
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">

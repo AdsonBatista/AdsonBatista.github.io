@@ -5,40 +5,47 @@ layout: default
 Teste bla bla bla
 
 
-
 <div class="posts">
   {% for post in paginator.posts %}
-  {% if post.pinned %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endif %}
+    {% if post.pinned %}
+      <div class="lead alert">
+        <i class="fas fa-thumbtack"></i> &nbsp; Pinned Post 
+      </div>
+      <div class="post">
+        <h1 class="post-title">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h1>
+        <div class="hr"></div>
+        <span class="post-date">{{ post.date | date_to_long_string }}</span>
+          {{ post.content }}
+      </div>
+      <hr>
+    {% endif %}
   {% endfor %}
-</div>
 
-<div class="posts">
   {% for post in paginator.posts %}
-  {% unless post.pinned %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endunless %}
+    {% unless post.pinned %}
+      {% if post == site.posts.first %}
+        <div class="lead alert">
+          <i class="fas fa-exclamation-circle"></i> &nbsp; Newest Post
+        </div>
+      {% endif %}
+      <div class="post">
+        <h1 class="post-title">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h1>
+        <div class="hr"></div>
+        <span class="post-date">{{ post.date | date_to_long_string }}</span>
+          {{ post.content }}
+      </div>
+      {% if post != paginator.posts.last %}
+        <hr>
+      {% endif %}
+    {% endunless %}
   {% endfor %}
 </div>
 

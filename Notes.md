@@ -1,6 +1,7 @@
 ---
 layout: default
 title: notes{study}
+permalink: /notes/
 ---
 
 <div id="home">

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: life{me}
+permalink: /life/
 ---
 
 <div id="home">

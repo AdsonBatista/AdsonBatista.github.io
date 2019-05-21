@@ -13,7 +13,7 @@ layout: default
           {% assign tags = page.tags %}
         {% endif %}
         {% for tag in tags %}
-        <a href="{{site.baseurl}}/categories/#{{tag | downcase | slugify}}">[{{tag}}]</a>
+        <a href="{{site.baseurl}}/tags/#{{tag | downcase | slugify}}">[{{tag}}]</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}
       </span>

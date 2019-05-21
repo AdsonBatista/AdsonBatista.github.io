@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Creating Pinned Posts in Jekyll
+title: Creating Pinned Posts in 
+tag: [Site]
+categories: [Teste]
 pinned: true
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Creating Pinned Posts in 
 tag: [Site]
 categories: [Teste]

@@ -18,6 +18,8 @@ plugins_dir:
   - jekyll-gist
   - jekyll-paginate
 
+gems: [jekyll-paginate]
+
 # Custom vars
 version:          2.0.0
 

@@ -25,17 +25,18 @@ layout: default
             {% assign myDate = currentDate %}
             {% endif %}
           <li>
-          <a href="{{ post.url }}">
-          </a><small class="post-meta" style="color: #313131;"> - Posted on {{ post.date | date: "%B %-d, %Y" }}</small>
+          <a href="{{ post.url }}"></a>
+          <small class="post-meta" style="color: #313131;"> - Posted on {{ post.date | date: "%B %-d, %Y" }}</small>
         </li>
        {% if forloop.last %}
       </ul>
       {% endif %}
-      <a href="#top" class="btn btn-default" style="font-size: 15px; padding: 0px 5px; margin-left: 30px">
-          <span class="fa fa-refresh" aria-hidden="true"></span> Go back to the top
-        </a> 
-        <hr/>
+   
    {% endfor %}
+   <a href="#top" class="btn btn-default" style="font-size: 15px; padding: 0px 5px; margin-left: 30px">
+      <span class="fa fa-refresh" aria-hidden="true"></span> Go back to the top
+    </a> 
+    <hr/>
 
 </section>
 

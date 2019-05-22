@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Receitas
-permalink: /life/
+permalink: /receitas/
 ---
 
 

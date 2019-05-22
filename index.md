@@ -19,5 +19,5 @@ O site irá abranger uma variedade imensa de tópicos pessoais ou educacionais, 
 
 Fique avisado que as notas não tem garantia de acertividade, às vezes as notas serão úteis, às vezes não, isso faz parte do aprendizado.
 
-*Nota:* Todas as figuras utilizadas no site são o Spoiled Rabbit do <a href="https://t.me/MHStickers">@MHStickers</a> .
+**Nota:** Todas as figuras utilizadas no site são o Spoiled Rabbit do <a href="https://t.me/MHStickers">@MHStickers</a> .
 

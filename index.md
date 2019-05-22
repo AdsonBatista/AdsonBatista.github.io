@@ -6,7 +6,7 @@ Espere!!
 
 Ainda estou organizando as coisas por aqui!
 
-<img src="https://adsonbatista.github.io/images/posts/organize.png" alt="Paris" class="center">
+<img src="https://adsonbatista.github.io/images/posts/organize.png" alt="Paris" class="center" width="60%">
 
 Este site é um lugar para eu compartilhar as notas que fiz aoao tentar fazer/aprender alguma coisa (nova ou não). 
 

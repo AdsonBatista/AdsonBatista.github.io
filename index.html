@@ -19,10 +19,12 @@ layout: default
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
            {% unless forloop.first %}
-           <a href="#top" class="btn btn-default" style="font-size: 15px; padding: 0px 5px; margin-left: 30px">
-              <span class="fa fa-refresh" aria-hidden="true"></span> Go back to the top
-              </a> 
+
           </ul>
+          <a href="#top" class="btn btn-default" style="font-size: 15px; padding: 0px 5px; margin-left: 30px">
+          <span class="fa fa-refresh" aria-hidden="true"></span> Go back to the top
+          </a> 
+
           {% endunless %}
            <h2 id="{{ currentDate }}"> {{ currentDate }}</h2> <!-- I added new class -->
            <ul>
@@ -36,6 +38,9 @@ layout: default
       </ul>
       {% endif %}
    {% endfor %}
+   <a href="#top" class="btn btn-default" style="font-size: 15px; padding: 0px 5px; margin-left: 30px">
+      <span class="fa fa-refresh" aria-hidden="true"></span> Go back to the top
+      </a> 
  
     <hr/>
 

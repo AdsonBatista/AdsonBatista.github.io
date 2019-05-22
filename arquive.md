@@ -7,18 +7,16 @@ permalink: /tags/
 <!-- I follow the file from cloudoftags file of my github(https://github.com/hyunyoung2/hyunyoung2.github.io/blob/master/cloudoftags.html)-->
 <!-- this code from https://github.com/codinfox/codinfox-lanyon/blob/dev/blog/categories.html-->
   <div class="page"> 
+  <ul class="taxonomy__index">
     {% assign tags = site.tags | sort %}
-    <div class="items">
     {% for tag in tags %}
-    <a href="#{{ tag[0] | slugify }}"> <!-- style="color: #1C1C1C;" is font color of cloud index -->
-    <div class="item">
-      <span> <!-- I get rid of left option -->
-        {{ tag[0] }} <i><sub>[{{ tag | last | size }}]</sub></i>
+      <h4><a href="#{{ tag[0] | slugify }}"> <!-- style="color: #1C1C1C;" is font color of cloud index -->
+   <!-- I get rid of left option -->
+        <strong>{{ tag[0] }} </strong><span class="taxonomy__count">({{ tag | last | size }})</span>
       </span>
-      </div>
-    </a>
+    </a>  </h4>
     {% endfor %}
-    </div>
+    </ul>
  <!--  </div>-->
   <hr/> <!-- margin-top and margin-bottom in main.css -->
   <!-- <div class="post-preview">--> <!--post-preview -->

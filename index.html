@@ -14,8 +14,8 @@ layout: default
 </ul>
  <!--  </div>-->
 <hr/> <!-- margin-top and margin-bottom in main.css -->
-<section class="archive-post-list">
-   {% for post in site.posts %}
+
+{% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
            {% unless forloop.first %}</ul>{% endunless %}
@@ -25,19 +25,17 @@ layout: default
             {% assign myDate = currentDate %}
             {% endif %}
           <li>
-          <a href="{{ post.url }}"></a>
+          <a href="{{ post.url }}">{{ post.title }}</a>
           <small class="post-meta" style="color: #313131;"> - Posted on {{ post.date | date: "%B %-d, %Y" }}</small>
         </li>
        {% if forloop.last %}
       </ul>
       {% endif %}
-   
-   {% endfor %}
-   <a href="#top" class="btn btn-default" style="font-size: 15px; padding: 0px 5px; margin-left: 30px">
+      <a href="#top" class="btn btn-default" style="font-size: 15px; padding: 0px 5px; margin-left: 30px">
       <span class="fa fa-refresh" aria-hidden="true"></span> Go back to the top
-    </a> 
+      </a> 
+   {% endfor %}
+ 
     <hr/>
-
-</section>
 
 

@@ -1,5 +1,5 @@
 ---
-title: Busca
+title: search{}
 layout: page
 ---
 

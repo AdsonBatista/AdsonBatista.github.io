@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Arquivo
+title: tags{}
 permalink: /tags/
 ---
 # Lista de Posts!
 <!-- I follow the file from cloudoftags file of my github(https://github.com/hyunyoung2/hyunyoung2.github.io/blob/master/cloudoftags.html)-->
 <!-- this code from https://github.com/codinfox/codinfox-lanyon/blob/dev/blog/categories.html-->
   <div class="page"> 
+  <h1 class="orange">tags{}</h1>
+
   <ul class="taxonomy__index">
     {% assign tags = site.tags | sort %}
     {% for tag in tags %}

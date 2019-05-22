@@ -5,7 +5,7 @@ permalink: /life/
 ---
 
 <div id="home">
-  <h2 class="orange">life{me}</h2>
+  <h1 class="orange">life{me}</h1>
   <ul class="posts">
     {% for post in site.categories.Vida %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>

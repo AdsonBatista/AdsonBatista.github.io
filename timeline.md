@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<div class="page"> 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
@@ -12,9 +12,7 @@ layout: default
   </h4>
   {% endfor %}
 </ul>
- <!--  </div>-->
 <hr/> <!-- margin-top and margin-bottom in main.css -->
-
 {% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
@@ -39,6 +37,5 @@ layout: default
    <a href="#top" class="btn btn-default" style="font-size: 15px; padding: 0px 5px; margin-left: 30px">
       <span class="fa fa-refresh" aria-hidden="true"></span> Go back to the top
       </a> 
- 
     <hr/>
-
+</div>

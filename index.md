@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<section class="archive-post-list">
 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
@@ -16,6 +15,7 @@ layout: default
 </ul>
  <!--  </div>-->
   <hr/> <!-- margin-top and margin-bottom in main.css -->
+<section class="archive-post-list">
 
    {% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}

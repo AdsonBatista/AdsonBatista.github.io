@@ -4,18 +4,16 @@ layout: default
 
 <section class="archive-post-list">
 
-{% assign currentDate = post.date | date: "%Y"  %}
-    <div class="items">
-    {% for post in site.posts %}
-    <a href="#{{ currentDate[0] | slugify }}"> <!-- style="color: #1C1C1C;" is font color of cloud index -->
-    <div class="item">
-      <span> <!-- I get rid of left option -->
-        {{ currentDate[0] }} <i><sub>[{{ currentDate | last | size }}]</sub></i>
-      </span>
-      </div>
-    </a>
-    {% endfor %}
-    </div>
+
+  {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% for year in postsInYear %}
+    <li>
+      <a href="#{{ year.name }}">
+        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+<
  <!--  </div>-->
   <hr/> <!-- margin-top and margin-bottom in main.css -->
 

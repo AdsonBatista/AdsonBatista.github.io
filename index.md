@@ -4,7 +4,7 @@ layout: default
 
 <section class="archive-post-list">
 
-
+<ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
     <li>
@@ -13,7 +13,7 @@ layout: default
       </a>
     </li>
   {% endfor %}
-<
+</ul>
  <!--  </div>-->
   <hr/> <!-- margin-top and margin-bottom in main.css -->
 

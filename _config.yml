@@ -1,7 +1,7 @@
 # Permalinks
 # permalink:        pretty
 # permalink: /blog/:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:title.html
+
 # Setup
 title:            Adson Batista
 tagline:          'Minhas notas'
@@ -12,17 +12,11 @@ author:
   name:           'Adson Batista'
   # url:            https://twitter.com/mdo
 
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/blog//page/:num/'
-  title_suffix: ' - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+paginate:         5
+paginate_path: "/blog/page:num/"
 
 gems:
-  - jekyll-paginate-v2
+  - jekyll-paginate
 # Custom vars
 version:          2.0.0
 

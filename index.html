@@ -2,29 +2,35 @@
 layout: default
 ---
 
-
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
-  <h2><a href="#{{ year.name }}">
+  <h4>
+    <a href="#{{ year.name }}">
         <strong>{{ year.name }}</strong> <span class="taxonomy__count">({{ year.items | size }})</span>
-      </a></h2>
+    </a>
+  </h4>
   {% endfor %}
 </ul>
  <!--  </div>-->
-  <hr/> <!-- margin-top and margin-bottom in main.css -->
+<hr/> <!-- margin-top and margin-bottom in main.css -->
 <section class="archive-post-list">
-
    {% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
            {% unless forloop.first %}</ul>{% endunless %}
            <h2 id="{{ currentDate }}"> {{ currentDate }}</h2> <!-- I added new class -->
            <ul>
-           {% assign myDate = currentDate %}
-       {% endif %}
-       <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
-       {% if forloop.last %}</ul>{% endif %}
+            {% assign myDate = currentDate %}
+            {% endif %}
+          <li>
+          <a href="{{ post.url }}">
+            <span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}
+          </a>
+        </li>
+       {% if forloop.last %}
+      </ul>
+      {% endif %}
    {% endfor %}
 
 </section>

@@ -22,7 +22,7 @@ layout: default
            {% unless forloop.first %}
           </ul>
           <a href="#top" class="btn btn-default" style="font-size: 15px; padding: 0px 5px; margin-left: 30px">
-          <span class="fa fa-refresh" aria-hidden="true"></span> Go back to the top
+          <span class="fa fa-refresh" aria-hidden="true"></span> Voltar ao início
           </a> 
           {% endunless %}
            <h2 id="{{ currentDate }}"> {{ currentDate }}</h2> <!-- I added new class -->
@@ -38,7 +38,7 @@ layout: default
       {% endif %}
    {% endfor %}
    <a href="#top" class="btn btn-default" style="font-size: 15px; padding: 0px 5px; margin-left: 30px">
-      <span class="fa fa-refresh" aria-hidden="true"></span> Go back to the top
+      <span class="fa fa-refresh" aria-hidden="true"></span> Voltar ao início
       </a> 
     <hr/>
 </div>

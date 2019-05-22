@@ -1,11 +1,11 @@
 ---
 layout: default
-title: notes{study}
+title: Estudos
 permalink: /notes/
 ---
 
 <div id="page">
-  <h1 class="orange">notes{study}</h1>
+  <h1 class="orange">Estudos</h1>
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign zz = tag[1] | where: "categories", "Estudos" | sort %}

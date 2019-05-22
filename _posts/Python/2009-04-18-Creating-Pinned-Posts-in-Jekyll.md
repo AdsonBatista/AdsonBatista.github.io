@@ -3,7 +3,7 @@ layout: post
 title: Creating Pinned Posts in 
 tag: [Site]
 categories: [Teste]
-pinned: true
+pinned: false
 ---
 
 <p class="lead">

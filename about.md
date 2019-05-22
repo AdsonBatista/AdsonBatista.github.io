@@ -1,7 +1,8 @@
 ---
 layout: default
-title: about{me}
+title: Sobre mim
 ---
+<h1 class="orange">Sobre mim</h1>
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!

@@ -1,6 +1,6 @@
 ---
-layout: page
-title: tags{}
+layout: default
+title: Assuntos
 permalink: /tags/
 ---
 # Lista de Posts!
@@ -32,7 +32,7 @@ permalink: /tags/
         {% endfor %}
       </ul>
         <a href="#top" class="btn btn-default" style="font-size: 15px; padding: 0px 5px; margin-left: 30px">
-          <span class="fa fa-refresh" aria-hidden="true"></span> Go back to the top
+          <span class="fa fa-refresh" aria-hidden="true"></span> Voltar ao início
         </a> 
         <hr/>
     {% endfor %}

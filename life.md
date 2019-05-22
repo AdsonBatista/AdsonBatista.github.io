@@ -11,6 +11,6 @@ permalink: /life/
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
- <p>Curious <a href="/about" class="orange">About Me</a>?</p>
+ <p>Curioso <a href="/about" class="orange">Sobre Mim</a>?</p>
 <p></p>
 </div>

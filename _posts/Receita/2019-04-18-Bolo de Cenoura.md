@@ -1,6 +1,6 @@
 ---
 title: Bolo de Cenoura
-tag: [Bolo]
+tag: [Doce]
 categories: [Receita]
 ---
 

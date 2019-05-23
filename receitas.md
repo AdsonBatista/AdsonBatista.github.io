@@ -10,8 +10,7 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
 
 <div id="home">
   <ul class="posts">
-   {% for tag in tags %} <!-- style="padding-top: 70px;" is used to deal with nav-custom bar -->
-       {% for post in site.categories.Receita %}
+       {% for post in site.categories.Receita and tag in tags%}
       <h2 id="{{ tag[0] | slugify }}"> {{ tag[0] }}  <i><sub>[{{ tag | last | size }}]</sub></i></h2> <!-- I added new class -->
       <ul> <!-- post-subtitle -->
         {% for post in tag[1] %}
@@ -28,7 +27,6 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
         </a> 
         <hr/>
     {% endfor %}
-        {% endfor %}
   </ul>
  <p>Curioso <a href="/about" class="orange">Sobre Mim</a>?</p>
 <p></p>

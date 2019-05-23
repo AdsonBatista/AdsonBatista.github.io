@@ -43,6 +43,7 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
   <li><a href="{{ p.url }}">{{ p.title }}</a></li>
    {% else %}
         {% break %}
+         {% endif %}
   {% endfor %}
  </ul>
  </li>

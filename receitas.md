@@ -10,8 +10,8 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
 
 <div id="home">
   <ul class="posts">
-       {% for post in site.categories.Receita and tag in tags%}
-      <h2 id="{{ tag[0] | slugify }}"> {{ tag[0] }}  <i><sub>[{{ tag | last | size }}]</sub></i></h2> <!-- I added new class -->
+       {% for post in site.categories['Receita'] %}
+      <h2 id="{{ tag[0] }}"> {{ tag[0] }} </h2> <!-- I added new class -->
       <ul> <!-- post-subtitle -->
         {% for post in tag[1] %}
           <a href="{{ site.baseurl }}{{ post.url }}">
@@ -47,7 +47,11 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
 
  {% endfor %}
 
+
+
+
 {% for post in site.categories['Receita'] %}
+<h2 id="{{ tag[0] | slugify }}"> {{ tag[0] }}  <i><sub>[{{ tag | last | size }}]</sub></i></h2>
 {% for tag in post.tags %}
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
    {{ tag  }}

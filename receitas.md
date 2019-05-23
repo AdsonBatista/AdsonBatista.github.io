@@ -10,8 +10,8 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
 
 <div id="home">
   <ul class="posts">
-    {% for post in site.categories.Receita %}
    {% for tag in tags %} <!-- style="padding-top: 70px;" is used to deal with nav-custom bar -->
+       {% for post in site.categories.Receita %}
       <h2 id="{{ tag[0] | slugify }}"> {{ tag[0] }}  <i><sub>[{{ tag | last | size }}]</sub></i></h2> <!-- I added new class -->
       <ul> <!-- post-subtitle -->
         {% for post in tag[1] %}
@@ -32,4 +32,21 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
   </ul>
  <p>Curioso <a href="/about" class="orange">Sobre Mim</a>?</p>
 <p></p>
+
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+{% assign zz = tag[1] | where: "category", "Receita" | sort %}
+{% if zz != empty %}
+
+<li><span class="tag">{{ tag[0] }}</span>
+<ul>
+  {% for p in zz %}
+  <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endfor %}
+ </ul>
+ </li>
+ {% endif %}
+
+ {% endfor %}
+
 </div>

@@ -31,22 +31,25 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
  <p>Curioso <a href="/about" class="orange">Sobre Mim</a>?</p>
 <p></p>
 
-{% for pos in site.categories['Receita'] %}
-{% assign sorted_tags = pos.tags | sort %}
+
+{% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign zz = tag[1] | sort %}
 {% if zz != empty %}
-
+ {if zz.categories == ['Receita']}
 <li><span class="tag">{{ tag[0] }}</span>
 <ul>
   {% for p in zz %}
+ 
   <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+
   {% endfor %}
  </ul>
  </li>
+   {% endif %}
  {% endif %}
 {% endfor %}
- {% endfor %}
+
 
 
 

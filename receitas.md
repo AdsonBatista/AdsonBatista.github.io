@@ -33,13 +33,16 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
 
 
 {% assign sorted_tags = site.tags | sort %}
-{% for tag in sorted_tags %}
+{% for tag in sorted_tags%}
 {% assign zz = tag[1] | sort %}
 {% if zz != empty %}
 <li><span class="tag">{{ tag[0] }}</span>
 <ul>
-  {% for p in zz and in site.categories['Receita']%}
+  {% for p in zz %}
+  {% if p in site.categories['Receita'] %}
   <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+   {% else %}
+        {% break %}
   {% endfor %}
  </ul>
  </li>

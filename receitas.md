@@ -12,6 +12,7 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
   <ul class="posts">
     <h3 class="orange">Acompanhamentos</h3>
     {% for post in site.categories.Receita %}
+    {% assign tags = site.tags | sort %}
       <li><span>{{ post.tag }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>

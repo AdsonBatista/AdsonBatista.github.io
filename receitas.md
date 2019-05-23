@@ -49,7 +49,7 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
 
  {% endfor %}
 
-{% for post in site.categories['X'] %}
+{% for post in site.categories['Receita'] %}
 {% for tag in post.tags %}
   <li><a href="{{ tag.url }}">{{ tag.title }}</a></li>
 

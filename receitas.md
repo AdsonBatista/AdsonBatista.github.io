@@ -39,7 +39,7 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
 {% for post in site.categories['Receita'] %}
 {% assign sorted_tags = post.tags | sort %}
 {% for tag in post.tags %}
-  % assign zz = tag[1] | sort %}
+  {% assign zz = tag[1] | sort %}
 {% if zz != empty %}
 <li><span class="tag">{{ tag[0] }}</span>
 <ul>

@@ -31,8 +31,8 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
  <p>Curioso <a href="/about" class="orange">Sobre Mim</a>?</p>
 <p></p>
 
-{% for post in site.categories['Receita'] %}
-{% assign sorted_tags = post.tags | sort %}
+{% for pos in site.categories['Receita'] %}
+{% assign sorted_tags = pos.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign zz = tag[1] | sort %}
 {% if zz != empty %}

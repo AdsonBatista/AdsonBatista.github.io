@@ -11,12 +11,11 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
 <div id="home">
   <ul class="posts">
     <h3 class="orange">Acompanhamentos</h3>
-    {% for post in site.tags.Receita %}
+    {% for post in site.tags.Acompanhamento %}
     {% assign tags = site.tags | sort %}
       <li><span>{{ post.tag }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
- <p>Curioso <a href="/about" class="orange">Sobre Mim</a>?</p>
 <p></p>
 
   <ul class="posts">
@@ -25,7 +24,6 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
       <li><span>{{ post.tag }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
- <p>Curioso <a href="/about" class="orange">Sobre Mim</a>?</p>
 <p></p>
     
   <ul class="posts">
@@ -34,7 +32,6 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
- <p>Curioso <a href="/about" class="orange">Sobre Mim</a>?</p>
 <p></p>
 
 

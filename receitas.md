@@ -32,7 +32,7 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
 <p></p>
 
 {% for post in site.categories['Receita'] %}
-{% assign sorted_tags = site.tags | sort %}
+{% assign sorted_tags = post.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign zz = tag[1] | sort %}
 {% if zz != empty %}

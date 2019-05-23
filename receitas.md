@@ -29,7 +29,7 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
   <ul class="posts">
   <h3 class="orange">Doces</h3>
     {% for post in site.tags.Doce %}
-      <li><<a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 <p></p>

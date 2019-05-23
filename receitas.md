@@ -35,8 +35,8 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign zz = tag[1] | sort %}
+{% for zz in site.categories['Receita'] %}
 {% if zz != empty %}
- {if zz.categories == ['Receita'] %}
 <li><span class="tag">{{ tag[0] }}</span>
 <ul>
   {% for p in zz %}
@@ -44,10 +44,9 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
   {% endfor %}
  </ul>
  </li>
-   {% endif %}
  {% endif %}
 {% endfor %}
-
+{% endfor %}
 
 
 

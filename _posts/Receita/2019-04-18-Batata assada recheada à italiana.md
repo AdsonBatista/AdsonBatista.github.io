@@ -4,7 +4,7 @@ tag: [Acompanhamento]
 categories: [Receita]
 ---
 
-# Ingredientes 
+## Ingredientes 
 
 - 2 batatas 
 - Papel alumínio - o suficiente 

@@ -17,14 +17,6 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
     {% endfor %}
   </ul>
 <p></p>
-
-  <ul class="posts">
-      <h3 class="orange">Lanches</h3>
-    {% for post in site.tags.Lanche %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-<p></p>
     
   <ul class="posts">
   <h3 class="orange">Doces</h3>
@@ -34,5 +26,19 @@ Com intuito de arquivar momentos e receitas utilizarei esta página como um cade
   </ul>
 <p></p>
 
+  <ul class="posts">
+      <h3 class="orange">Lanches</h3>
+    {% for post in site.tags.Lanche %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+<p></p>
 
+  <ul class="posts">
+      <h3 class="orange">Massas</h3>
+    {% for post in site.tags.Massa %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+<p></p>
 </div>

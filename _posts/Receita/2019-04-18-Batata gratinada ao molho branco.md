@@ -4,7 +4,7 @@ tag: [Acompanhamento]
 categories: [Receita]
 ---
 
-# Ingredientes 
+## Ingredientes 
 
 ## Molho branco 
 
@@ -14,15 +14,12 @@ categories: [Receita]
 - 1 oog de margarina 
 - 4 cebolas grandesraladas 
 - 1 cubo de caldo decarne 
-- 2 dentes de alhopicados 
-
-## Montagem 
-
+- 2 dentes de alhopicados s
 - Margarina ou óleo desoja para untar 
 - 300g de queijo prato
 - 100g de provolone 
 
-# Modo de Preparo 
+## Modo de Preparo 
 
 Refogar as cebolascom a margarina, acrescentando o alho e a salsa. Adicione o creme de leite e o caldode carne. Quando levantar fervura, desligue. Cozinhe as batatas e corte em rodelasmédias. 
 

@@ -4,7 +4,7 @@ tag: [Lanche]
 categories: [Receita]
 ---
 
-# Ingredientes:
+## Ingredientes:
 
 - 3 Copos de polvilho doce
 - 5–6 Ovos
@@ -14,12 +14,12 @@ categories: [Receita]
 - 2–3 Copos de queijo minas meia cura ralado
 - Sal a gosto
 
-#  Instrumentos:
+##  Instrumentos:
 
 - Formas
 - Ema vasilha grande
 
-# Modo de Preparo:
+## Modo de Preparo:
 
 1. Ferva a água o leite e o óleo.
 2. Coloque todo polvilho em uma vasilha e escalde.
@@ -28,7 +28,7 @@ categories: [Receita]
 5. Faça bolinhas e distribua numa forma.
 6. Asse em forno preaquecido por 10 min a 240ºC.
 
-# Informações adicionais:
+## Informações adicionais:
 
 - Escaldar é o ato de misturar os ingredientes líquidos em alta temperatura com polvilho. Ele irá virar uma massa borrachuda.
 - Caso queira rechear basta colocar o recheio durante o processo de enrolar o pão de queijo.

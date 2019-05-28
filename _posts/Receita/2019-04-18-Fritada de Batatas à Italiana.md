@@ -4,12 +4,12 @@ tag: [Acompanhamento]
 categories: [Receita]
 ---  
 
-# Ingredientes:
+## Ingredientes:
 
 
 
-# Instrumentos:
+## Instrumentos:
 
 
 
-# Modo de Preparo:
+## Modo de Preparo:

@@ -4,9 +4,7 @@ tag: [Acompanhamento]
 categories: [Receita]
 ---
 
-## Ingredientes 
-
-## Molho branco 
+## Ingredientes Molho branco 
 
 - 1 kg de batatacozidas 
 - 2 colheres de sopade salsa picada 

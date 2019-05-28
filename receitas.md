@@ -3,7 +3,7 @@ layout: page
 title: Receitas
 ---
 
-<img src="https://adsonbatista.github.io/images/public/hello.png"> 
+<img src="https://adsonbatista.github.io/images/posts/comida.png"> 
 
 Cozinhar é uma arte, uma arte da qual eu gosto de apreciar e de me arriscar as vezes, infelizmente não me considero um bom artista, mas assumo que não dedico parte relevante dos meus esforços no estudo e treinamento desta arte mas, as vezes me arrisco um pouco na cozinha com amigos ou sozinho.
 

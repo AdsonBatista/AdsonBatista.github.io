@@ -4,22 +4,17 @@ permalink: /diario.html
 ---
 
 <div class="posts">
-ccc
-      {% for post in site.categories.diario %}
-        <div class="lead alert">
-          <i class="fas fa-thumbtack"></i> &nbsp; Post Fixo 
-        </div>
-        <div class="post">
-          <h1 class="post-title">
-            <a href="{{ site.baseurl }}{{ post.url }}">
-              {{ post.title }}
-            </a>
-          </h1>
-          <div class="hr"></div>
-          <span class="post-date">{{ post.date | date_to_long_string }}</span>
-            {{ post.content }}
-        </div>
-        <hr>
+dds
+
+<img src="https://adsonbatista.github.io/images/posts/comida.png"> 
+
+<div id="home">
+  <ul class="posts">
+    <h3 class="orange">Acompanhamentos</h3>
+    {% for post in site.categories.diario %}
+    {% assign tags = site.tags | sort %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-  
+  </ul>
+<p></p>
 </div>

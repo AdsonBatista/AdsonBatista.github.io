@@ -4,8 +4,8 @@ permalink: /diario.html
 ---
 
 <div class="posts">
-bbb
-      {% for post in site.diario %}
+ccc
+      {% for post in site.diarioo %}
         <div class="lead alert">
           <i class="fas fa-thumbtack"></i> &nbsp; Post Fixo 
         </div>
@@ -21,5 +21,8 @@ bbb
         </div>
         <hr>
     {% endfor %}
-  
+    
+    <header><h2 id="page-layout">Page Layout</h2></header>
+    {%- include article-list.html articles=site.diarioo type='grid' -%}
+  </section>
 </div>

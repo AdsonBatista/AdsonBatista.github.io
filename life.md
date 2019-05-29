@@ -1,11 +1,11 @@
 ---
 layout: default
-title: life{me}
+title: Minha Vida
 permalink: /life/
 ---
+<img src="https://adsonbatista.github.io/images/posts/vida.png"> 
 
 <div id="home">
-  <h1 class="orange">life{me}</h1>
   <ul class="posts">
     {% for post in site.categories.Vida %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>

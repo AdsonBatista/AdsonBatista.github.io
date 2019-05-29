@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Receitas
+permalink: /receitas/
 ---
 
 <img src="https://adsonbatista.github.io/images/posts/comida.png"> 

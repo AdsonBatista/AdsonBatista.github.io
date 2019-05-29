@@ -5,7 +5,9 @@ permalink: /notes/
 ---
 
 <div id="page">
-  <h1 class="orange">Estudos</h1>
+
+<img src="https://adsonbatista.github.io/images/posts/estudos.png"> 
+
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign zz = tag[1] | where: "categories", "Estudos" | sort %}

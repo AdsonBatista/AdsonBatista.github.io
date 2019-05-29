@@ -4,6 +4,8 @@ title: Sobre mim
 ---
 <h1 class="orange">Sobre mim</h1>
 
+<img src="https://adsonbatista.github.io/images/posts/about.png"> 
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>

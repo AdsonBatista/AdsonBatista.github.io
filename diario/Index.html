@@ -7,7 +7,7 @@ permalink: /diario.html
 
 <img src="https://adsonbatista.github.io/images/posts/diario.png"> 
 
-{% for post in site.posts %}
+{% for post in site.categories.diario %}
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
            {% unless forloop.first %}

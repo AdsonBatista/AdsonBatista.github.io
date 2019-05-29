@@ -4,8 +4,8 @@ permalink: /diario.html
 ---
 
 <div class="posts">
-aaaa
-      {% if post.pinned %}
+bbb
+      {% for post in site.diario %}
         <div class="lead alert">
           <i class="fas fa-thumbtack"></i> &nbsp; Post Fixo 
         </div>
@@ -20,6 +20,6 @@ aaaa
             {{ post.content }}
         </div>
         <hr>
-      {% endif %}
+    {% endfor %}
   
 </div>

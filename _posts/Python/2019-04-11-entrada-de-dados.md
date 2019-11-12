@@ -1,6 +1,7 @@
 ---
 title: Recebendo dados do usuário!
-tag: [Pythonmm]
+tag: [Python]
+categories: [Estudos]
 categories: [Estudos]
 ---
 

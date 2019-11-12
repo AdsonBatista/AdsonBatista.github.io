@@ -1,7 +1,8 @@
 ---
 title: Exercicios de Fixação
-tag: [Python]
 published: false
+tag: [Python]
+categories: [Estudos]
 ---
 
 1. Faça um programa que receba dois números e mostre qual deles é o maior.

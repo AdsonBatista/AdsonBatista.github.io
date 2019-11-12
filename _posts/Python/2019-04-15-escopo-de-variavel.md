@@ -1,6 +1,8 @@
 ---
 title: Escopo de variável
+published: true
 tag: [Python]
+categories: [Estudos]
 ---
 
 Dois casos de escopo:

@@ -1,6 +1,7 @@
 ---
 title: Estruturas Lógicas e Condicionais
-tag: [Python]
 published: false
+tag: [Python]
+categories: [Estudos]
 ---
 

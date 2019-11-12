@@ -1,5 +1,6 @@
 ---
 title: Tipo string
+published: true
 tag: [Python]
 categories: [Estudos]
 ---

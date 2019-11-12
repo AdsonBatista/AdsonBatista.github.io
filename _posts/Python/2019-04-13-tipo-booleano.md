@@ -1,5 +1,6 @@
 ---
 title: Tipo Booleano
+published: true
 tag: [Python]
 categories: [Estudos]
 ---

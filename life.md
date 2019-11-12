@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Minha Vida
-permalink: /life/
+title: Sobre mim
+permalink: /about/
 ---
 <img src="https://adsonbatista.github.io/images/posts/vida.png"> 
 

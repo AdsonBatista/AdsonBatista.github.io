@@ -56,7 +56,9 @@ permalink: /receitas/
   </ul>
 <p></p>
 
-{% for Receitas in site.categories %}
+111
+
+{% for category in site.categories %}
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>

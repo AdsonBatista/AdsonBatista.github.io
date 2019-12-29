@@ -3,10 +3,39 @@ layout: default
 title: Receitas
 permalink: /receitas/
 ---
+<div id="home">
+
+<h1>Categories</h1>
+{% for category in site.categories %}
+
+        <a href="{{base_url}}/categories/{{ category | first}}/">
+            {{ category | first }}
+        </a>
+        {% unless forloop.last %}, {% endunless %}
+
+{% endfor %}
+<h1>Tags</h1>
+<div class="tagcloud">
+{% for tag in site.tags %}
+
+    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size| plus: 70 }}%">
+        <a href="{{base_url}}/tags/{{ tag | first |downcase | slugize }}/">
+            {{ tag | first }}
+        </a>
+
+    </li>
+{% endfor %}
+
 
 <img src="https://adsonbatista.github.io/images/posts/comida.png"> 
 
-<div id="home">
+<div class="tags">Tags: {% for tag in post.tags %}
+<a href="{{base_url}}/tags/{{ tag |downcase | slugize }}/">{{tag}}</a>
+  {% unless forloop.last %}, {% endunless %}
+{% endfor %}</div>
+
+1
+
   <ul class="posts">
     <h3 class="orange">Acompanhamentos</h3>
     {% for post in site.tags.Acompanhamento %}

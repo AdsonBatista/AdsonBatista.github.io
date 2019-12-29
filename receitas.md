@@ -47,11 +47,7 @@ permalink: /receitas/
     {% endfor %}
   </ul>
 <p></p>
-</div>
 
-
-
-//   /blog/tags.html
 {% for tag in site.data.tagList %}
     <div>
         <h2><a href="/blog/tags/{{tag.slug}}.html">{{tag.name}}</a></h2>
@@ -65,3 +61,16 @@ permalink: /receitas/
         </em>
     </div>
 {% endfor %}
+
+
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+</div>

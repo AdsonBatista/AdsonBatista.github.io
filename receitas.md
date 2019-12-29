@@ -56,9 +56,10 @@ permalink: /receitas/
   </ul>
 <p></p>
 
-113
+114
 {% for tag in site.tags %}
-{% if site.categories.Receita == Receita%}
+114
+{% if site.categories == "Receita"%}
 
   <h3>{{ tag[0] }}</h3>
   <ul>

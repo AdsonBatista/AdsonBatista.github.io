@@ -48,22 +48,6 @@ permalink: /receitas/
   </ul>
 <p></p>
 
-{% for tag in site.data.tagList %}
-    <div>
-        <h2><a href="/blog/tags/{{tag.slug}}.html">{{tag.name}}</a></h2>
-        {% assign postCount = site.tags[tag.name] | size %}
-        <em>
-            {% if postCount == 1 %}
-                {{postCount}} post
-            {% else %}
-                {{postCount}} posts
-            {% endif %}
-        </em>
-    </div>
-{% endfor %}
-
-
-
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>

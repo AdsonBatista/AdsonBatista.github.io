@@ -58,7 +58,7 @@ permalink: /receitas/
 
 111
 
-{% for post in site.categories.Receitas %}
+{% for post in site.categories.Receita %}
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>

@@ -66,6 +66,6 @@ permalink: /receitas/
     {% endfor %}
   </ul>
 {% endfor %}
-{% endfor %}
+{% endif %}
 
 </div>

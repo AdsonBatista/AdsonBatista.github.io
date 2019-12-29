@@ -2,13 +2,13 @@
 title: Creme de chocolate e café
 tag: [Doce, Chocolate, café]
 categories: [Receita]
-published: false
+published: true
 ---
 
 * A melhor sobremesa do mundo
 Para mim é a melhor sobremesa que existe, amo mesmo de paixão, porque chocolate e café juntos é uma combinação perfeita. *
 
-# Ingredientes:
+# Ingredientes
 
 - 25 g. de chocolate meio-amargo picado
 - 50 ml. de creme de leite
@@ -18,7 +18,7 @@ Para mim é a melhor sobremesa que existe, amo mesmo de paixão, porque chocolat
 - 1/2 colher de sopa de açúcar
 - 1 pitadinha de sal
 
-## Modo de preparo:
+## Modo de preparo
 
 Numa panela coloque o creme de leite, o leite e o café e leve ao fogo médio até começar a ferver. Junte o chocolate picado e misture bem até derreter e todos os ingredientes ficarem incorporados.
 

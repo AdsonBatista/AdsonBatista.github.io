@@ -2,8 +2,10 @@
 title: Torta de Atum
 tag: [Acompanhamento]
 categories: [Receita]
----  
-## Salada de Atum:
+published: true
+---
+
+## Salada de Atum
 
 - 1 Lata de atum solido.
 - 1 Lata de atum ralado.
@@ -16,7 +18,7 @@ categories: [Receita]
 - 1 Pitada se sal.
 - 3 Colheres de sopa azeite.
 
-## Massa:
+## Massa
 
 - 1 Xícara de leite — 250 ml.
 - 1/2 Copo de óleo de milho — 125 ml.
@@ -26,7 +28,7 @@ categories: [Receita]
 - 1 e 1/2 Copo de farinha de trigo.
 - 1 Colher de sopa fermento em pó para bolo (Dr. Oetker).
 
-## Como fazer:
+## Como fazer
 
 1. Misture todos os ingredientes da salada de atum e reserve.
 2. Bata todos os ingredientes (menos o fermento) da massa no liquidificador até ficar homogêneo em uma vasilha depois misture o fermento com a massa.

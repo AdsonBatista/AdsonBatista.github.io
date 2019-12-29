@@ -5,14 +5,14 @@ categories: [Receita]
 published: true
 ---
 
-## Ingredientes 
+## Ingredientes
 
 - 2 e 1/2 xícaras de farinha de trigo
 - 1 colher de manteiga
 - 1 colher pequena de sal
 - 1 copo de leite morno
 
-## Modo de preparo 
+## Modo de preparo
 
 1. Misture tudo em uma travessa com as mãos.
 1. Caso não encontre o ponto certo, adicione mais farinha até desgrudar a massa das mãos.

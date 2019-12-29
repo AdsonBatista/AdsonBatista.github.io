@@ -5,7 +5,7 @@ categories: [Receita]
 published: true
 ---
 
-## Ingredientes:
+## Ingredientes
 
 - 2 colheres de sopa de azeite
 - 1 batata cortada em cubos pequenos
@@ -16,7 +16,7 @@ published: true
 - 1/2 xícara de creme de leite
 - 1 colher de sopa de queijo parmesão ralado
 
-## Modo de preparo:
+## Modo de preparo
 
 Ligue o forno (180°C) para pré-aquecer.
 Em uma frigideira, aqueça 1 colher de sopa de azeite e coloque as batatas para dourar. Acrescente o sal e mexa até dourar. Com cuidado para não desmanchar as batatas. Reserve.

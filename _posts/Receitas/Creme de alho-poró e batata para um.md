@@ -7,7 +7,7 @@ published: true
 
 Quer uma sopinha quentinha cremosa pra comer com torradas ou com pão bem fresquinho? Então aqui vai uma receita muito boa, fácil e na na proporção exata para uma pessoa.
 
-# Ingredientes:
+# Ingredientes
 
 1 alho-poró
 1/3 cebola média picada
@@ -19,7 +19,7 @@ Sal e pimenta a gosto
 1 xícara de creme de leite fresco
 Um pouco de cebolinha picada caso você goste
 
-## Modo de preparo:
+## Modo de preparo
 
 Lave bem o alho-poró e corte-o em fatias bem finas. Numa panela média, refogue as fatias de alho-poró e a cebola na manteiga por cerca de 10 minutos. Junte as batatas picadas.
 
@@ -29,6 +29,6 @@ Desligue o fogo e espere esfriar um pouco. Depois coloque essa mistura no liquid
 
 Leve a sopa ao fogo médio novamente e adicione o creme de leite. Cozinhe por mais alguns minutos, apenas para aquecer (não deixe ferver). Na hora de servir, salpique a cebolinha picada.
 
-
 Rendimento: 1 porção.
+
 Tempo de Preparo: 20 minutos.

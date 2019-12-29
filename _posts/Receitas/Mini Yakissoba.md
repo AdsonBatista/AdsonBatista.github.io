@@ -2,7 +2,7 @@
 title: Frango à Espanhola
 tag: [Frango]
 categories: [Receita]
-published: false
+published: true
 ---
 
 CARNES, PEIXES E FRUTOS DO MAR, FRANGO, MASSA, MIOJO, VERMELHA

@@ -2,7 +2,7 @@
 title: Frango à Espanhola
 tag: [Frango]
 categories: [Receita]
-published: false
+published: true
 ---
 
 One Pot Macarrão com Linguiça

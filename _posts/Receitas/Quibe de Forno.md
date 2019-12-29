@@ -2,7 +2,7 @@
 title: Quibe de Forno
 tag: [Carne]
 categories: [Receita]
-published: false
+published: true
 ---
 
 # Ingredientes:
@@ -21,15 +21,16 @@ published: false
 
 ## Modo de preparo:
 
-Primeiro coloque o trigo para quibe em uma tigela e encha com água até cobrir todo o trigo. Deixe hidratando por cerca de meia hora. O trigo irá absorver toda a água, mas caso sobre água é só escorrer o restante.
-Enquanto o trigo está sendo hidratado corte a cebola, o alho e o pimentão, rale a cenoura, corte em rodelas o alho poró e pique as folhas de hortelã.
-Misture a carne e todos os outros ingredientes ao trigo hidratado, menos o molho de tomate e tempere ao seu gosto.
-Tempere o molho de tomate a seu gosto.
-Coloque o molho de tomate no fundo de uma forma e por cima do molho ajeite a massa do quibe. Leve ao forno médio por aproximadamente 20 minutos. Assim que a parte de cima estiver bem corada é hora de tirar o quibe do forno.
+1. Primeiro coloque o trigo para quibe em uma tigela e encha com água até cobrir todo o trigo. Deixe hidratando por cerca de meia hora. O trigo irá absorver toda a água, mas caso sobre água é só escorrer o restante.
+1. Enquanto o trigo está sendo hidratado corte a cebola, o alho e o pimentão, rale a cenoura, corte em rodelas o alho poró e pique as folhas de hortelã.
+1. Misture a carne e todos os outros ingredientes ao trigo hidratado, menos o molho de tomate e tempere ao seu gosto.
+1. Tempere o molho de tomate a seu gosto.
+1. Coloque o molho de tomate no fundo de uma forma e por cima do molho ajeite a massa do quibe. Leve ao forno médio por aproximadamente 20 minutos. 
+1. Assim que a parte de cima estiver bem corada é hora de tirar o quibe do forno.
 
 ### Acompanhamento incrementado
 
 Para acompanhar o meu quibe eu fiz uma nova versão do meu arroz com laranja e amêndoas usando suco de caju e castanhas de caju. Ficou perfeito.
 
-Rendimento: 2 a 3 porções
-Tempo de Preparo: 40 minutos
+**Rendimento:** 2 a 3 porções
+**Tempo de Preparo:** 40 minutos

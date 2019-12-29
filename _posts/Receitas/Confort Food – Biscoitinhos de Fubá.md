@@ -4,7 +4,7 @@ tag: [Doce]
 categories: [Receita]
 published: true
 ---
-# Ingredientes:
+# Ingredientes
 
 - 75g. de manteiga derretida
 - 75g. de açúcar
@@ -14,13 +14,13 @@ published: true
 - suci
 - 1 ovo
 
-## Modo de preparo:
+## Modo de preparo
 
 Pré-aqueça o forno e unte uma assadeira com manteiga e farinha ou coloque uma folha de papel manteiga.
 
 Bata a manteiga com o açúcar na batedeira até formar um creme bem macio e claro, adicione o ovo e continue batendo aos poucos adicione o fubá e a farinha de trigo. Por último coloque as raspas de limão ou laranja e misture bem a massa. Faça bolinhas do tamanho de brigadeiros e coloque na assadeira. Deixe um bom espaço entre os biscoitos, eles iram se espalhar um pouco e ficarão em formato mais achatado. Leve ao forno até o fundo dos biscoitos ficarem corados.
 
-### Opcional 
+### Opcional
 
 Além dos ingredientes acima eu também adiciono uma colher de sopa de suco de limão para dar um gosto mais azedinho ao biscoito. Eu adiciono por último e misturo até incorporar a massa, sem maiores dramas. Com isso a massa vai ficar menos consistente e ai eu uso uma colher para moldar os biscoitos e colocar na assadeira.
 

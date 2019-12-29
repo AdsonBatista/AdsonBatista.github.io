@@ -1,3 +1,5 @@
+
+
 Esse ano eu me dediquei a um curso de chef que me tomou todo o pouco tempo tempo que eu não tinha, mas que valeu muito a pena. Espero que em 2016 eu consiga trazer para o blog em forma de receitas para um o que eu vi durante todo esse curso.
 
 Houveram três áreas na cozinha que eu mais me identifiquei, a panificação, a confeitaria e as aulas de massas frescas e é nessas três áreas que eu quero retornar ao blog. Escolhi começar com pães que são um teste de paciência para quem quer comer logo um pão fresquinho e quentinho assado na hora. Os pães carecem de muito tempo para fermentar e é esse processo de fermentação lenta que faz com que o pão tenha um gosto de pão caseiro que o nosso paladar não sabe mais que existe, já que nos acostumamos com pães industrializados.

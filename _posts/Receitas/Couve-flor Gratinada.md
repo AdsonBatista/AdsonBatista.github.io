@@ -5,7 +5,7 @@ categories: [Receita]
 published: true
 ---
 
-# Ingredientes:
+# Ingredientes
 
 1 couve-flor pequena ou buquês de couve-flor
 1 colher de sopa de vinagre
@@ -19,7 +19,7 @@ Para Gratinar
 2 gemas
 1 xícara de parmesão ralado
 
-## Modo de preparo:
+## Modo de preparo
 
 Limpe a couve-flor e separe os buquês. Cubra com água, junte o vinagre e deixe descasar por 20 minutos. Lave e escorra. Numa panela, cubra os buquês com água, junte o sal e cozinhe por dez minutos ou até os buquês estarem macios. Escorra e reserve.
 Molho Branco
@@ -28,4 +28,5 @@ Para Gratinar
 Misture as gemas e o queijo ao molho. Cubra a couve-flor com molho, polvilhe com parmesão e leve ao forno em um refratário por 20 minutos.
 
 Rendimento: 3 porções
+
 Tempo de Preparo: 40 minutos.

@@ -5,7 +5,7 @@ categories: [Receita]
 published: true
 ---
 
-# Ingredientes:
+# Ingredientes
 
 - 250g. de carne moída
 - 1 pacote de sopa de cebola individual
@@ -14,7 +14,7 @@ published: true
 - Sal e Pimenta
 - Duas fatias de queijo mussarela
 
-## Modo de preparo:
+## Modo de preparo
 
 Misture a carne moída com a sopa de cebola, um pouco de sal e pimenta, o cheiro verde e a cebola picada. Coloque um pedaço de filme plástico em cima de uma mesa ou pia e com a metade da carne moída abra um retângulo, coloque o queijo e distribua a outra metade da carne moída por cima.  Enrole com o auxílio do filme plástico a carne como se fosse um rocambole. Unte uma fôrma com óleo e coloque o rocambole de carne, cubra a carne com um pouco mais de óleo e leve ao forno para assar.
 

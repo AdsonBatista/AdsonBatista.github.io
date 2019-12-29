@@ -5,7 +5,7 @@ categories: [Receita]
 published: true
 ---
 
-## Ingredientes:
+## Ingredientes
 
 - 1 batata
 - Bacon em cubos (2 colheres de sopa)
@@ -14,7 +14,7 @@ published: true
 - Alecrim
 - Queijo parmesão ralado
 
-## Modo de preparo:
+## Modo de preparo
 
 Coloque a batata cortada em cubos grandes em uma panela com água e cozinhe até a batata estar macia. Depois frite os pedaços de batata no bacon, não precisa de óleo, use a gordura do bacon. Tempere com sal e pimenta, jogue um pouco de queijo parmesão ralado sobre a batata e os pedaços de bacon, tempere com um pouco de alecrim e leve ao forno somente para dar uma corada e gratinar.
 

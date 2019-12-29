@@ -3,10 +3,9 @@ title: Bife com batata frita e tomate cereja para acompanhar
 tag: [Acompanhamento, batata, carne]
 categories: [Receita]
 published: true
-
 ---
 
-## Ingredientes:
+## Ingredientes
 
 - 1 bife (pode ser da carne, grossura e tamanho que você desejar)
 - 1 batata
@@ -20,7 +19,7 @@ published: true
 - Sal
 - Tomates cereja
 
-## Modo de preparo:
+## Modo de preparo
 
 Corte as batatas, com casca ou sem, em formato palito ou em rodelas finas. Eu fiz as duas versões e ficaram ótimas.
 Coloque as batatas em cima de um pano de prato limpo e use o pano de prato para enxugar as batatas.
@@ -34,7 +33,7 @@ Verifique se as batatas já estão bem coradas. Retire as batatas do óleo e as 
 Quando os tomates estiverem quentes e grelhados retire-os do fogo e coloque-os também na marinada.
 Coloque o bife no prato e sirva-se de batatas e tomates. Jogue um pouco da marinada sobre os tomates para temperar.
 
-*batata-frita-sem-sujeira-e-sem-medo figura* 
+*batata-frita-sem-sujeira-e-sem-medo figura*
 
 Coloque o bife para grelhar
 Coloque o bife para grelhar
@@ -43,11 +42,14 @@ Depois de grelhado colocar na marinada
 Colocar os tomates cereja para grelhar
 Colocar os tomates cereja para grelhar
 
-### DICA: 
+### DICA
+
 Use uma panela de bordar altas para fazer a batata. Isso vai fazer com que o óleo espirre somente dentro da panela e não fora dela e se esparrame pelo fogão. Como você não vai jogar a batata fria dentro do óleo quente a fritura vai ficar mais controlada e sem muitos espirros de óleo. Acredite em mim, essa técnica realmente funciona.
 
-### DICA 2: 
+### DICA 2
+
 Apesar da marinada ter sal e pimenta eu achei que faltou sal no bife, por isso, quando eu terminei de grelhar cada lado do bife eu usei um pouco de sal para temperá-lo antes de colocar na marinada.
 
-### DICA 3: 
+### DICA 3
+
 Depois do bife ficar um tempo na marinada eu achei que ele esfriou muito quando eu o servi. Da segunda vez que eu fiz esse prato eu coloquei o bife por alguns segundos na grelha depois que retirei os tomates para esquentar antes de levar ao prato.

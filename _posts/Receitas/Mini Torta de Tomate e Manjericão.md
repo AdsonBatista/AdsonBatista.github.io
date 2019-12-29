@@ -2,7 +2,7 @@
 title: Frango à Espanhola
 tag: [Frango]
 categories: [Receita]
-published: false
+published: true
 ---
 
 ACOMPANHAMENTOS, OVOS, TORTA, TORTA SALGADA

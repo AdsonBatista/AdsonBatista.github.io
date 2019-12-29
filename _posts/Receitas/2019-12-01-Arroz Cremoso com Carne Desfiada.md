@@ -2,6 +2,7 @@
 title: Arroz Cremoso com Carne Desfiada
 tag: [Arroz, Carne]
 categories: [Receita]
+published: true
 ---
 
 Arroz com tomate, carne desfiada e creme de leite.

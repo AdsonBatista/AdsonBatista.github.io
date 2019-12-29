@@ -1,7 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
-UNCATEGORIZED
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 Mini Lasanha de Frango com Catupiry – OK
 Publicado por ANALÚCIA BATISTA em JUN 9, 2011 @ 11:14
 Olá pessoal. Eu dei uma sumidinha essa semana, mas já estou de volta com uma receita que eu inventei no último sábado, uma lasanha de frango com catupiry bem simples e muito boa. Essa receita foi uma espécie de despedida já que nesta segunda eu iniciei uma dieta daquelas de passar muita fome.

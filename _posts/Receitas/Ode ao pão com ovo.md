@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 OVOS
 Ode ao pão com ovo – OK
 Publicado por ANALÚCIA BATISTA em SET 6, 2011 @ 20:01

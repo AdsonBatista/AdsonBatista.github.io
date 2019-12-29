@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 ACOMPANHAMENTOS, OVOS, TORTA, TORTA SALGADA
 Mini Torta de Tomate e Manjericão
 Publicado por ANALÚCIA BATISTA em DEZ 18, 2011 @ 18:56

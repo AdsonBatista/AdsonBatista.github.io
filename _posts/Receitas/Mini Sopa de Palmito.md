@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 CREMOSA, SOPA, VEGETARIANA
 Mini Sopa de Palmito – OK
 Publicado por ANALÚCIA BATISTA em MAIO 23, 2012 @ 14:16

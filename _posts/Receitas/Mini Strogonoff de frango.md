@@ -1,6 +1,10 @@
-Ir para conteúdo	
-Prato pra Um
-MY DELICIOUS CULINÁRIO SOBRE ESSA QUE VOS FALA
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 CARNES, PEIXES E FRUTOS DO MAR, FRANGO
 Mini Strogonoff de frango – OK
 Publicado por ANALÚCIA BATISTA em MAIO 4, 2011 @ 15:32

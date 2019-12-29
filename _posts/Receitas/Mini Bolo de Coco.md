@@ -1,6 +1,10 @@
-Ir para conteúdo	
-Prato pra Um
-MY DELICIOUS CULINÁRIO SOBRE ESSA QUE VOS FALA
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BOLO, DOCES, MINI BOLO
 Mini Bolo de Coco – OK
 Publicado por ANALÚCIA BATISTA em MAIO 10, 2011 @ 19:06

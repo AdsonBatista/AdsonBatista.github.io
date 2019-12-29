@@ -1,4 +1,10 @@
-MASSA, MOLHO PARA MASSAS
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: true
+---
+
 Fettuccine com tomate seco para uma ou duas pessoas
 Publicado por ANALÚCIA BATISTA em ABR 4, 2013 @ 14:23
 2013-03-23 14.09.54

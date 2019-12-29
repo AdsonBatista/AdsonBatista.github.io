@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 CARNES, PEIXES E FRUTOS DO MAR, FRANGO, MASSA, MIOJO, VERMELHA
 Mini Yakissoba – OK
 Publicado por ANALÚCIA BATISTA em MAIO 24, 2011 @ 13:39

@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 ACOMPANHAMENTOS, BATATAS, CARNES, PEIXES E FRUTOS DO MAR, PARA BELISCAR, VERMELHA
 Home made hambúrguer e batatas não fritas
 Publicado por ANALÚCIA BATISTA em ABR 24, 2012 @ 13:52

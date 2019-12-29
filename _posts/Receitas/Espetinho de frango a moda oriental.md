@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Creme de chocolate e café
+tag: [Doce, Chocolate, café]
+categories: [Receita]
+published: false
+---
+
 CARNES, PEIXES E FRUTOS DO MAR, FRANGO
 Espetinho de frango a moda oriental
 Publicado por ANALÚCIA BATISTA em JAN 8, 2012 @ 16:53
@@ -29,24 +33,3 @@ Intercale os pedaços de frango com pedaços de cebola e de pimentão no espeto.
 
 Rendimento: 2 espetinhos
 Tempo de Preparo: 40 minutos
-
-
-
-espetinho de frango para fazer em casareceita para quem mora sozinho
-Navegação de posts
-POST ANTERIOR
-Fusilli com cebola crocante e creme branco
-PRÓXIMO POST
-Black Cherry Coke
-Deixe um comentário
-Digite seu comentário aqui...
-Pesquisar por:
-Pesquisar …
-TOP BLOG DE RECEITAS
-Top blogs de receitas
-RSS
-RSS Feed RSS - Posts
-
-CATEGORIAS
-Categorias
-Blog no WordPress.com.

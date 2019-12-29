@@ -1,7 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
-CARNES, PEIXES E FRUTOS DO MAR, VERMELHA
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: true
+---
+
 Filé ao molho de ameixas
 Publicado por ANALÚCIA BATISTA em NOV 7, 2012 @ 13:05
 

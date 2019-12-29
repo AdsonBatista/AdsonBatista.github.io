@@ -2,6 +2,7 @@
 title: Batata com Bacon
 tag: [Acompanhamento, batata, bacon]
 categories: [Receita]
+published: true
 ---
 
 ## Ingredientes:

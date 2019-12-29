@@ -1,3 +1,10 @@
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 One Pot Macarrão com Linguiça
 Publicado por ANALÚCIA BATISTA em AGO 1, 2014 @ 18:13
 one-pot-macarrão-com-linguiça-e-queijo

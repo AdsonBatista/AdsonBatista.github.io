@@ -2,6 +2,7 @@
 title: Batatas Assadas com Queijo e Salsa
 tag: [Acompanhamento, batata]
 categories: [Receita]
+published: true
 ---
 
 ## Ingredientes:

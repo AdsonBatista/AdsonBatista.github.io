@@ -1,6 +1,10 @@
-Ir para conteúdo	
-Prato pra Um
-MY DELICIOUS CULINÁRIO SOBRE ESSA QUE VOS FALA
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BATATAS, OVOS
 Tortilha Espanhola em porção para uma pessoa
 Publicado por ANALÚCIA BATISTA em MAR 1, 2013 @ 8:12

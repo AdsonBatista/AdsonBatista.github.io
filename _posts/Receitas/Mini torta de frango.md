@@ -1,6 +1,10 @@
-Ir para conteúdo	
-Prato pra Um
-MY DELICIOUS CULINÁRIO SOBRE ESSA QUE VOS FALA
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 CARNES, PEIXES E FRUTOS DO MAR, FRANGO, TORTA, TORTA SALGADA
 Mini torta de frango – OK
 Publicado por ANALÚCIA BATISTA em ABR 26, 2011 @ 18:28

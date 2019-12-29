@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BOLO, DOCES, MINI BOLO
 Mini Bolo de Cenoura com Cobertura de Chocolate 2
 Publicado por ANALÚCIA BATISTA em OUT 18, 2011 @ 9:54

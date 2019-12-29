@@ -1,3 +1,10 @@
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 Salada de batata com mostarda para um
 
 salada-de-batata-com-mostarda

@@ -1,10 +1,9 @@
-Ir para conteúdo
-Prato pra Um
-MENU
-FRANGO
-Frango à Espanhola
-Publicado por ANALÚCIA BATISTA em AGO 16, 2012 @ 11:15
-
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: true
+---
 
 Receitinha daquelas beeeeeeeeeeem fáceis de fazer. Do modelo “coloca tudo na travessa e manda pro forno”. Eu fiz essa receita com dois pedaços de sobrecoxa, que eu acho muito mais saboroso, mas você pode usar coxa ou mesmo o peito. Fica a sua escolha.
 

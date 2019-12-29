@@ -1,6 +1,10 @@
-Ir para conteúdo	
-Prato pra Um
-MY DELICIOUS CULINÁRIO SOBRE ESSA QUE VOS FALA
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 ACOMPANHAMENTOS, BATATAS, CARNES, PEIXES E FRUTOS DO MAR, FRANGO
 Galeto assado com batatas a la caçarole – OK
 Publicado por ANALÚCIA BATISTA em ABR 21, 2011 @ 19:11

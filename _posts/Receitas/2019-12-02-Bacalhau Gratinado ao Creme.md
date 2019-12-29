@@ -2,6 +2,7 @@
 title: Bacalhau Gratinado ao Creme
 tag: [Peixe]
 categories: [Receita]
+published: true
 ---
 
 ## Ingredientes:

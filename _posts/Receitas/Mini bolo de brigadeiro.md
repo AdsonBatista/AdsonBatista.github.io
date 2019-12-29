@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BOLO, CHOCOLATE, DOCES, MINI BOLO
 Mini bolo de brigadeiro
 Publicado por ANALÚCIA BATISTA em OUT 8, 2011 @ 19:05

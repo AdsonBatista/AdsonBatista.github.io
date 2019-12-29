@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 FRANGO
 Frango com Curry e Champions
 Publicado por ANALÚCIA BATISTA em DEZ 17, 2012 @ 11:42

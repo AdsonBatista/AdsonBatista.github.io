@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BEBIDAS, CHOCOLATE, DOCES
 Receita Vintage: Cappuccino
 Publicado por ANALÚCIA BATISTA em FEV 28, 2012 @ 17:49

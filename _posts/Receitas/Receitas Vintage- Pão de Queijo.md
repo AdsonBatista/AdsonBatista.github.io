@@ -1,7 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
-PARA BELISCAR, PÃES
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 Receitas Vintage: Pão de Queijo – OK
 Publicado por ANALÚCIA BATISTA em FEV 7, 2012 @ 12:51
 

@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 MASSA, MOLHO PARA MASSAS
 Macarrão com muito Queijo – OK
 Publicado por ANALÚCIA BATISTA em NOV 16, 2012 @ 17:06

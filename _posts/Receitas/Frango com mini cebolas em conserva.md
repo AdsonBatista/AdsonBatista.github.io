@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 FRANGO, VEGETAIS
 Frango com mini cebolas em conserva
 Publicado por ANALÚCIA BATISTA em JUN 26, 2012 @ 14:15

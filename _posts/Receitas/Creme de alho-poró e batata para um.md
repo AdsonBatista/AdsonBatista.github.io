@@ -1,14 +1,13 @@
-Ir para conteúdo
-Prato pra Um
-MENU
-CREMOSA, SOPA
-Creme de alho-poró e batata para um – OK
-Publicado por ANALÚCIA BATISTA em ABR 14, 2011 @ 11:59
+---
+title: Cremitcho de alho-poró com batata
+tag: [Creme, Sopo]
+categories: [Receita]
+published: true
+---
 
-Cremitcho de alho-poró com batata
 Quer uma sopinha quentinha cremosa pra comer com torradas ou com pão bem fresquinho? Então aqui vai uma receita muito boa, fácil e na na proporção exata para uma pessoa.
 
-Ingredientes:
+# Ingredientes:
 
 1 alho-poró
 1/3 cebola média picada
@@ -19,7 +18,8 @@ Ingredientes:
 Sal e pimenta a gosto
 1 xícara de creme de leite fresco
 Um pouco de cebolinha picada caso você goste
-Modus Operandi:
+
+## Modo de preparo:
 
 Lave bem o alho-poró e corte-o em fatias bem finas. Numa panela média, refogue as fatias de alho-poró e a cebola na manteiga por cerca de 10 minutos. Junte as batatas picadas.
 
@@ -29,27 +29,6 @@ Desligue o fogo e espere esfriar um pouco. Depois coloque essa mistura no liquid
 
 Leve a sopa ao fogo médio novamente e adicione o creme de leite. Cozinhe por mais alguns minutos, apenas para aquecer (não deixe ferver). Na hora de servir, salpique a cebolinha picada.
 
+
 Rendimento: 1 porção.
-
 Tempo de Preparo: 20 minutos.
-
-
-
-mini sopa cremosareceita de sopa apara uma pessoareceita fácil de sopareceita para quem mora sozinho
-Navegação de posts
-POST ANTERIOR
-Hamburguer de Filet Mignon – OK
-PRÓXIMO POST
-Mini pudim de leite em pó – OK
-Deixe um comentário
-Digite seu comentário aqui...
-Pesquisar por:
-Pesquisar …
-TOP BLOG DE RECEITAS
-Top blogs de receitas
-RSS
-RSS Feed RSS - Posts
-
-CATEGORIAS
-Categorias
-Crie um website ou blog gratuito no WordPress.com.

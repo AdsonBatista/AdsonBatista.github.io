@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BATATAS, OVOS
 Tortilha Espanhola em porção para uma pessoa
 Publicado por ANALÚCIA BATISTA em MAR 1, 2013 @ 8:12
@@ -24,20 +28,3 @@ Em uma frigideira anti-aderente coloque o azeite e refogue  a cebola por uns 3,4
 Cubra as cebolas e as batatas com os ovos batidos. Abaixe o fogo e tampe a frigideira. Deixe cozinhar por 4 minutos.
 Passe uma espatula em torno das bordar para soltar a tortilha. Vire a tortilha em um prato e volte a tortilha para a frigideira agora para dourar o outro lado.
 mini tortilhaopção de refeição para uma pessoaprato de batata com ovos fácil de fácilreceita para quem mora sozinho
-Navegação de posts
-POST ANTERIOR
-Tartar de Salmão
-PRÓXIMO POST
-Ovos pochê com molho holandês
-Deixe um comentário
-Digite seu comentário aqui...
-Pesquisar por:
-Pesquisar …
-TOP BLOG DE RECEITAS
-Top blogs de receitas
-RSS
-RSS Feed RSS - Posts
-
-CATEGORIAS
-Categorias
-Blog no WordPress.com.

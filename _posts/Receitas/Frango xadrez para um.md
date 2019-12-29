@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 CARNES, PEIXES E FRUTOS DO MAR, FRANGO
 Frango xadrez para um
 Publicado por ANALÚCIA BATISTA em AGO 6, 2011 @ 18:10

@@ -1,3 +1,10 @@
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: true
+---
+
 Frango à Kiev
 Ingredientes da Manteiga Composta:
 

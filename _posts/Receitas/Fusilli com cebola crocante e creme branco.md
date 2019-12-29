@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 MASSA
 Fusilli com cebola crocante e creme branco
 Publicado por ANALÚCIA BATISTA em JAN 7, 2012 @ 20:46

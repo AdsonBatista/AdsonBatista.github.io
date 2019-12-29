@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 CARNES, PEIXES E FRUTOS DO MAR, SALMÃO, VEGETAIS
 Salmão Grelhado com vegetais
 Publicado por ANALÚCIA BATISTA em OUT 15, 2011 @ 11:26

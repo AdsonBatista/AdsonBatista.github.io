@@ -1,7 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
-BOLO, DOCES, MINI BOLO
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 Mini Bolo de Fubá Cremoso – OK
 Publicado por ANALÚCIA BATISTA em JUN 20, 2011 @ 10:37
 

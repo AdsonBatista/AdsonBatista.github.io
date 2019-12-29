@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+--- 
+
 OVOS
 Ovos mexidos cremoso – OK
 Publicado por ANALÚCIA BATISTA em FEV 25, 2013 @ 10:14

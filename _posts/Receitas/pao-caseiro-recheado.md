@@ -1,5 +1,10 @@
-Pão Caseiro Recheado – OK
-Publicado por ANALÚCIA BATISTA em OUT 23, 2013 @ 11:16
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 pao-caseiro-recheado
 
 Quem quer a casa com cheiro de pão quentinho saindo do forno todos os dias de manhã?

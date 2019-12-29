@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BOLO, DOCES, MINI BOLO
 Mini Bolo de Açúcar Mascavo
 Publicado por ANALÚCIA BATISTA em SET 26, 2011 @ 9:34

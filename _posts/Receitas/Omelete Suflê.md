@@ -1,6 +1,11 @@
-Omelete Suflê – OK
-Publicado por ANALÚCIA BATISTA em MAIO 22, 2013 @ 11:45
- 
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
+Omelete Suflê – OK 
 
 omelete-sufle-para-uma-pessoaomelete-sufle-prato-pra-um
 

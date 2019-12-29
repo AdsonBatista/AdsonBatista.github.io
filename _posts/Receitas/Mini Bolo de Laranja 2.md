@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BOLO, DOCES, FRUTAS, MINI BOLO
 Mini Bolo de Laranja 2
 Publicado por ANALÚCIA BATISTA em OUT 2, 2011 @ 21:11

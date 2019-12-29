@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: true
+---
+
 CARNES, PEIXES E FRUTOS DO MAR, MOLHO PARA CARNES VERMELHAS, MOLHOS, VERMELHA
 Filé ao Molho de Vinho do Porto – OK
 Publicado por ANALÚCIA BATISTA em JUL 1, 2011 @ 9:34

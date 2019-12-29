@@ -2,6 +2,7 @@
 title: Pizza de frigideira crocante
 tag: [Massa]
 categories: [Receita]
+published: true
 ---
 
 ## Ingredientes 

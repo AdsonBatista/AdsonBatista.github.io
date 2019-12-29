@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: true
+---
+
 CARNES, PEIXES E FRUTOS DO MAR, VERMELHA
 Fraldinha Marinada no Balsâmico
 Publicado por ANALÚCIA BATISTA em DEZ 10, 2011 @ 11:25

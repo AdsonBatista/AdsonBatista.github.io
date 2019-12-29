@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 SALMÃO
 Tartar de Salmão
 Publicado por ANALÚCIA BATISTA em FEV 27, 2013 @ 10:57

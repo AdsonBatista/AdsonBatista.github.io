@@ -1,3 +1,10 @@
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 DOCES, FRUTAS
 Geleia de Morango com Vodka
 Publicado por ANALÚCIA BATISTA em JUN 15, 2013 @ 12:21

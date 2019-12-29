@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BOLO, CHOCOLATE, DOCES, MINI BOLO
 Não é mais um bolo de chocolate, é um bolo de chocolate, café e azeite – OK
 Publicado por ANALÚCIA BATISTA em JUN 1, 2011 @ 17:22

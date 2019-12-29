@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BOLO, DOCES, FRUTAS, MINI BOLO
 Mini Bolo de Leite de Coco – OK
 Publicado por ANALÚCIA BATISTA em SET 27, 2011 @ 9:47

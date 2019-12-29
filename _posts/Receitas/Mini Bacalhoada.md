@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BACALHAU, CARNES, PEIXES E FRUTOS DO MAR
 Mini Bacalhoada – OK
 Publicado por ANALÚCIA BATISTA em MAIO 27, 2011 @ 11:24

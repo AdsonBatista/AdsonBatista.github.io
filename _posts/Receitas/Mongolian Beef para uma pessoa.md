@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 CARNES, PEIXES E FRUTOS DO MAR, VERMELHA
 Mongolian Beef para uma pessoa – OK
 Publicado por ANALÚCIA BATISTA em JAN 30, 2013 @ 12:47

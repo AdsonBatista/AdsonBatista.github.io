@@ -1,6 +1,10 @@
-Ir para conteúdo	
-Prato pra Um
-MY DELICIOUS CULINÁRIO SOBRE ESSA QUE VOS FALA
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 OVOS, PARA BELISCAR, PÃES
 Ovos pochê com molho holandês
 Publicado por ANALÚCIA BATISTA em MAR 20, 2013 @ 11:04

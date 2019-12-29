@@ -1,7 +1,11 @@
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 Molho Alfredo para massas suficiente para uma pessoa – OK
-Publicado por ANALÚCIA BATISTA em JUN 27, 2013 @ 9:30
-
-
 
 Uma bela opção de molho para quem esta cansado de fazer macarrão com molho de vermelho. Uma receita simples que leva apenas 4 ingredientes e é tão fácil de fazer quanto abrir uma lata de molho de tomate.
 

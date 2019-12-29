@@ -1,7 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
-PARA BELISCAR
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 Sardella
 Publicado por ANALÚCIA BATISTA em AGO 23, 2011 @ 13:08
 

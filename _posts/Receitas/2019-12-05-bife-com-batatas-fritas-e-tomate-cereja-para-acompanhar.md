@@ -2,6 +2,8 @@
 title: Bife com batata frita e tomate cereja para acompanhar
 tag: [Acompanhamento, batata, carne]
 categories: [Receita]
+published: true
+
 ---
 
 ## Ingredientes:

@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 MASSA, MOLHO PARA MASSAS
 O macarrão mais fácil do mundo – OK
 Publicado por ANALÚCIA BATISTA em MAR 30, 2012 @ 12:00

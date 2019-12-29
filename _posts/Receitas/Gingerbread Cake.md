@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 BOLO, DOCES
 Gingerbread Cake – OK
 Publicado por ANALÚCIA BATISTA em DEZ 6, 2011 @ 14:14

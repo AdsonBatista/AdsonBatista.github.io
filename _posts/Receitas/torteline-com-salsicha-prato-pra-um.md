@@ -1,6 +1,11 @@
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 Torteline com salsicha – OK
-Publicado por ANALÚCIA BATISTA em JAN 7, 2015 @ 19:25
-torteline-com-salsicha-prato-pra-um
 
 Mais uma receita onde você coloca a massa para cozinhar na panela junto com o molho e está pronto o seu almoço ou janta sem bagunça e sem sujeira.
 

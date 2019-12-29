@@ -1,6 +1,10 @@
-Ir para conteúdo	
-Prato pra Um
-MY DELICIOUS CULINÁRIO SOBRE ESSA QUE VOS FALA
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 MASSA
 Macarrão a Parisiense – OK
 Publicado por ANALÚCIA BATISTA em MAIO 12, 2011 @ 9:53

@@ -1,6 +1,10 @@
-Ir para conteúdo
-Prato pra Um
-MENU
+---
+title: Frango à Espanhola
+tag: [Frango]
+categories: [Receita]
+published: false
+---
+
 DICAS, DOCES, SORVETE
 Sorvete com vinagre
 Publicado por ANALÚCIA BATISTA em JAN 16, 2012 @ 20:44

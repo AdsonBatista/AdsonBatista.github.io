@@ -8,6 +8,7 @@ published: true
 
 Bla
 bla bla - colocar depois.
+
 ## Modo de preparo
 
 1. Refogue 1/2 cebola picadinha com 1/2 dente de alho picado em azeite.

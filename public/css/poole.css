@@ -158,7 +158,7 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 85%;
-  color: #be4bdb;;
+  color: #FBA91B;;
   border: 1px solid #ddd;
   border-radius: 3px;
 }
@@ -286,7 +286,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #212529;
-  background-color: #fff3bf;
+  background-color: #fba919b3;
   border-radius:0.25rem;
 }
 

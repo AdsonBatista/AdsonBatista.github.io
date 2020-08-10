@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Estudos
-permalink: /notes/
+title: Python
+permalink: /python/
 ---
 
 <div id="page">
